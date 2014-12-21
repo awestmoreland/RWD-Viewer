@@ -1,0 +1,30 @@
+#wide {
+  width: 1020px; }
+
+#medium {
+  width: 720px; }
+
+#narrow {
+  width: 420px; }
+
+html,
+body,
+iframe {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  text-align: center; }
+
+html {
+  box-sizing: border-box; }
+  html *, html *:before, html *:after {
+    box-sizing: inherit; }
+
+body {
+  padding: 2% 0; }
+
+iframe {
+  border: solid 1px #c0c0c0;
+  margin: 0 1em; }
+
+/*# sourceMappingURL=style.css.map */
