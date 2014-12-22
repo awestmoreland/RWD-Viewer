@@ -12,7 +12,7 @@ Open in your browser of choice with your page to test (local or remote) specifie
 
 	rwdviewer/index.html?page=http://elevatorup.com/
 	
-Alternatively, you can set up a bookmarklet that will allow you to view a page in RWD Viewer by clicking on the bookmark. Create a bookmark in your web browser with the following link (edited to reflect your installation of RWD Viewer):
+Alternatively, you can set up a bookmarklet that will allow you to RWD Viewer-ize a remote page already open in your browser by clicking on the bookmarklet. Create a new bookmark in your browser with the following link (edited to reflect your installation of RWD Viewer):
 
 	javascript:location.href='http://yourdomain.com/rwdviewer/?page='+location.href;
 
